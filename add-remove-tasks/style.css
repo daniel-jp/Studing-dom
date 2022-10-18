@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+
+}
+
+ul{
+  list-style: none;
+}
+
+body{
+background-color:rgba(111, 25, 202, 0.753);
+font-size:30px;
+text-align:center;
+}
+
+.container{
+color: white;
+background-color: black;
+border-radius: 10px;
+margin-right: auto;
+margin-left: auto;
+width: 500px;
+margin-top:50%;
+border: solid 2px rgb(229, 149, 22);
+}
+.header{
+  padding: 20px;
+}
+ul li{
+  border-radius: 8px;
+  margin: 4px;
+
+  background-color: rgb(69, 12, 202);
+}
+.list-items{
+  border: solid 2px rgb(229, 149, 22);
+  padding:4px;
+
+
+}
+
