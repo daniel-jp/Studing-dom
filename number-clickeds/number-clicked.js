@@ -33,7 +33,7 @@ document.querySelector('.btn').addEventListener(
   'click',
   e => {
     e.preventDefault()
-    console.log((e.target.innerTex = 'Button show all!'))
+    console.log((e.target.innerTex = 'Button!'))
   },
   false
 )
